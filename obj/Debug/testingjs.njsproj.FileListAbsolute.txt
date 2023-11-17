@@ -1,0 +1,3 @@
+C:\Users\anton\Documents\vscode new version\repos\testingjs\testingjs\obj\Debug\testingjs.njsproj.AssemblyReference.cache
+C:\Users\anton\Documents\vscode new version\repos\testingjs\testingjs\obj\Debug\testingjs.njsproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\vscode new version\repos\testingjs\testingjs\bin\Microsoft.NodejsTools.WebRole.dll
